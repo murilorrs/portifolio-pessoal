@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #141414; 
+}
+
+img {
+max-width: 100%;
+display: block;
+}
+
+ul {
+padding: 0px;
+margin: 0px;
+list-style: none;
+
+}
